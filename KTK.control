@@ -1,0 +1,4 @@
+# KTK extension
+comment = 'A operator which returns the join of two tables with function cost very low'
+default_version = '1.0'
+relocatable = true
